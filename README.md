@@ -15,6 +15,6 @@ i2u --help
 Downloads
 =========
 
-The files for this project may be downloaded from http://github.com/jszigetvari/i2u or the files may be
+The files for this project may be downloaded from https://github.com/jszigetvari/i2u or the files may be
 cloned from git, using the following command:
-git clone http://github.com/jszigetvari/i2u
+git clone git://github.com/jszigetvari/i2u
